@@ -1,0 +1,3 @@
+Node Deployment - https://blog.harveydelaney.com/jenkins-build-test-deploy-node-app/
+https://medium.com/containerum/how-to-setup-ci-cd-workflow-for-node-js-apps-with-jenkins-and-kubernetes-360fd0499556
+https://medium.com/konvergen/jenkins-for-node-js-app-on-aws-ec2-part-3-jenkins-node-js-app-integration-1fa9d1306d25
